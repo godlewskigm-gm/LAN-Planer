@@ -1,0 +1,21 @@
+﻿## EN — Author and Copyright
+
+The sole author and originator of this project is **Maksym Goldevskyi**.
+
+No license is required to use this software. All rights to the concept, architecture, logic, and structure of the software are reserved by the author. The source code was created and refined with the assistance of AI tools acting as programming assistants.
+
+This software is provided only as a redistributable application file for end users. Public redistribution of modified copies or derivative works without the author's explicit permission is prohibited, except where allowed by applicable law in your jurisdiction.
+
+All rights reserved.
+
+------------------------------------------------------
+
+## PL — Autor i Prawa Autorskie
+
+Jedynym autorem i twórcą tego projektu jest **Maksym Goldevskyi**.
+
+Do korzystania z tego oprogramowania nie jest wymagana żadna licencja. Wszelkie prawa do koncepcji, architektury, logiki oraz struktury oprogramowania pozostają zastrzeżone przez autora. Kod został stworzony i dopracowany przy wsparciu narzędzi AI pełniących rolę asystentów programistycznych.
+
+Oprogramowanie jest udostępniane jako plik do użytku końcowego. Publiczne rozpowszechnianie zmodyfikowanych kopii lub dzieł pochodnych bez wyraźnej zgody autora jest zabronione, z wyjątkiem przypadków dozwolonych przez obowiązujące prawo w Twojej jurysdykcji.
+
+Wszelkie prawa zastrzeżone.
